@@ -1,5 +1,5 @@
 # Visualized Distribution of Sports Fans Based on Twitter Data
-EECS 6893 Big Data Analytics
+Final Project of EECS 6893 Big Data Analytics
 
 ## Prerequisite
 1. Python 3.6
